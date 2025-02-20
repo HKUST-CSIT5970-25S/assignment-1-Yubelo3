@@ -1,0 +1,451 @@
+1 CPU
+Smallpt 1.0:
+    pts/smallpt-1.2.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 5 Minutes [10:17 UTC] 
+        Started Run 1 @ 10:13:39
+        Started Run 2 @ 10:16:40
+        Started Run 3 @ 10:19:40
+
+    Global Illumination Renderer; 128 Samples:
+        176.465
+        176.191
+        176.214
+
+    Average: 176.290 Seconds
+    Deviation: 0.09%
+
+    Comparison of 6,908 OpenBenchmarking.org samples since 26 February 2011; median result: 26.47 Seconds. Box plot of samples:
+    [  *                   |----*--------------------*-*------------####*#*!*#*]
+                     This Result (7th Percentile): 176 ^
+              ARMv7 rev 10: 340 ^ Xeon D-2123IT: 196 ^ Core i9-9900KS: 10.857 ^
+       ^ ARMv7 Cortex-A7: 524                          Ryzen 5 4500U: 25.52 ^
+                                                      Core i5-6500: 39.64 ^
+                                                         FX-6300: 55.98 ^
+
+    Do you want to view the text results of the testing (Y/n): 
+CPU
+Xen HVM domU 4.11.amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+
+run1: 
+
+	Processor: Intel Xeon E5-2686 v4 (1 Core), Motherboard: Xen HVM domU (4.11.amazon BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 1024MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, System Layer: Xen HVM domU 4.11.amazon
+
+
+Smallpt 1.0
+Global Illumination Renderer; 128 Samples
+Seconds < Lower Is Better
+================================================
+2 CPU
+Smallpt 1.0:
+    pts/smallpt-1.2.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 5 Minutes [10:19 UTC] 
+        Started Run 1 @ 10:14:59
+        Started Run 2 @ 10:16:35
+        Started Run 3 @ 10:18:11
+
+    Global Illumination Renderer; 128 Samples:
+        91.585
+        91.624
+        91.814
+
+    Average: 91.674 Seconds
+    Deviation: 0.13%
+
+    Comparison of 6,908 OpenBenchmarking.org samples since 26 February 2011; median result: 26.47 Seconds. Box plot of samples:
+    [  *                   |------------------------*--------------*####*#*!*#*]
+                             This Result (19th Percentile): 91.674 ^
+       ^ ARMv7 Cortex-A7: 524    Celeron 3965U: 203 ^  Core i9-9900KS: 10.857 ^
+                                                       Ryzen 5 4500U: 25.52 ^
+                                                      Core i5-6500: 39.64 ^
+                                                         FX-6300: 55.98 ^
+CPU
+Xen HVM domU 4.11.amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+run1: 
+
+	Processor: Intel Xeon E5-2686 v4 (2 Cores), Motherboard: Xen HVM domU (4.11.amazon BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 4096MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, System Layer: Xen HVM domU 4.11.amazon
+
+
+Smallpt 1.0
+Global Illumination Renderer; 128 Samples
+Seconds < Lower Is Better
+================================================
+3 CPU
+Smallpt 1.0:
+    pts/smallpt-1.2.1
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 5 Minutes [10:23 UTC] 
+        Started Run 1 @ 10:19:29
+        Started Run 2 @ 10:21:26
+        Started Run 3 @ 10:23:23
+
+    Global Illumination Renderer; 128 Samples:
+        113.349
+        113.524
+        113.324
+
+    Average: 113.399 Seconds
+    Deviation: 0.10%
+
+    Comparison of 6,908 OpenBenchmarking.org samples since 26 February 2011; median result: 26.47 Seconds. Box plot of samples:
+    [                      |----------------*--------*----------*---*######!*#*]
+                             This Result (15th Percentile): 113 ^
+             Rockchip ARMv8 Cortex-A53: 256 ^    2 x  Xeon E5-2650 v2: 11.051 ^
+                                                2 x  Xeon E5-2630 v3: 26.47 ^
+                                                    Xeon D-2191: 87 ^
+                                  Xeon D-2123IT: 196 ^
+
+    Do you want to view the text results of the testing (Y/n): 
+CPU
+amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+
+run1: 
+
+	Processor: Intel Xeon Platinum 8124M (1 Core / 2 Threads), Motherboard: Amazon EC2 c5d.large (1.0 BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 4096MB, Disk: 9GB Amazon Elastic Block Store + 50GB Amazon EC2 NVMe Instance Storage, Graphics: simpledrmdrmfb, Network: Amazon Elastic
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, Screen Resolution: 800x600, System Layer: amazon
+
+
+Smallpt 1.0
+Global Illumination Renderer; 128 Samples
+Seconds < Lower Is Better
+
+================================================
+MEM1
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.3 [Type: Average - Benchmark: Floating Point]
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 6 Minutes [10:31 UTC] 
+        Started Run 1 @ 10:25:37
+        Started Run 2 @ 10:28:27
+        Started Run 3 @ 10:31:17
+
+    Type: Average - Benchmark: Floating Point:
+        10530.02
+        10454.44
+        10479.72
+
+    Average: 10488.06 MB/s
+    Deviation: 0.37%
+
+    Comparison of 6,011 OpenBenchmarking.org samples since 26 February 2011; median result: 16643 MB/s. Box plot of samples:
+    [  |--*----#*#######!########------------------------------| * * *  *     ]
+                ^ This Result (27th Percentile): 10488
+          ^ 1 x 2048 MB DDR3-1333MHz: 5147 2 x 16 GB DDR5-7200MT: 56908 ^
+                                        2 x 16 GB DDR4-3733MT: 54726 ^
+                                     32 x 64 GB DDR4-3200MT: 53082 ^
+                                         2 x 16 GB 6000MT: 51401 ^
+
+    Do you want to view the text results of the testing (Y/n): 
+MEM
+Xen HVM domU 4.11.amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+
+run1: 
+
+	Processor: Intel Xeon E5-2686 v4 (1 Core), Motherboard: Xen HVM domU (4.11.amazon BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 1024MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, System Layer: Xen HVM domU 4.11.amazon
+
+
+RAMspeed SMP 3.5.0
+Type: Average - Benchmark: Floating Point
+MB/s > Higher Is Better
+================================================
+MEM2
+AMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.3 [Type: Average - Benchmark: Floating Point]
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 6 Minutes [10:31 UTC] 
+        Started Run 1 @ 10:25:56
+        Started Run 2 @ 10:27:30
+        Started Run 3 @ 10:29:04
+
+    Type: Average - Benchmark: Floating Point:
+        19374.04
+        19297.32
+        19238.69
+
+    Average: 19303.35 MB/s
+    Deviation: 0.35%
+
+    Comparison of 6,011 OpenBenchmarking.org samples since 26 February 2011; median result: 16643 MB/s. Box plot of samples:
+    [  |-------#########!##*#####---------*---------------------| *  * * *     ]
+                           ^ This Result (62nd Percentile): 19303
+              2 x 32GB DDR4-3600MT: 31729 ^ 2 x 16 GB DDR5-7200MT: 56908 ^
+                                          1 x 480GB DRAM-6400MT: 55854 ^
+                                         2 x 16GB DDR5-6000MT: 53422 ^
+                                          2 x 16 GB 6000MT: 51401 ^
+
+    Do you want to view the text results of the testing (Y/n): 
+MEM
+Xen HVM domU 4.11.amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+
+run1: 
+
+	Processor: Intel Xeon E5-2686 v4 (2 Cores), Motherboard: Xen HVM domU (4.11.amazon BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 4096MB, Disk: 8GB, Graphics: Cirrus Logic GD 5446
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, System Layer: Xen HVM domU 4.11.amazon
+
+
+RAMspeed SMP 3.5.0
+Type: Average - Benchmark: Floating Point
+MB/s > Higher Is Better
+================================================
+MEM3
+RAMspeed SMP 3.5.0:
+    pts/ramspeed-1.4.3 [Type: Average - Benchmark: Floating Point]
+    Test 1 of 1
+    Estimated Trial Run Count:    3                     
+    Estimated Time To Completion: 6 Minutes [10:33 UTC] 
+        Started Run 1 @ 10:27:44
+        Started Run 2 @ 10:29:56
+        Started Run 3 @ 10:32:07
+
+    Type: Average - Benchmark: Floating Point:
+        13679.21
+        13669.69
+        13740.93
+
+    Average: 13696.61 MB/s
+    Deviation: 0.28%
+
+    Comparison of 6,011 OpenBenchmarking.org samples since 26 February 2011; median result: 16643 MB/s. Box plot of samples:
+    [  |-------######*##!########---------*---------------------| *  * * *     ]
+                     ^ This Result (37th Percentile): 13697
+              2 x 32GB DDR4-3600MT: 31729 ^ 2 x 16 GB DDR5-7200MT: 56908 ^
+                                          1 x 480GB DRAM-6400MT: 55854 ^
+                                         2 x 16GB DDR5-6000MT: 53422 ^
+                                          2 x 16 GB 6000MT: 51401 ^
+
+    Do you want to view the text results of the testing (Y/n): y
+MEM
+amazon testing on Ubuntu 22.04 via the Phoronix Test Suite.
+
+
+run1: 
+
+	Processor: Intel Xeon Platinum 8124M (1 Core / 2 Threads), Motherboard: Amazon EC2 c5d.large (1.0 BIOS), Chipset: Intel 440FX 82441FX PMC, Memory: 4096MB, Disk: 9GB Amazon Elastic Block Store + 50GB Amazon EC2 NVMe Instance Storage, Graphics: simpledrmdrmfb, Network: Amazon Elastic
+
+	OS: Ubuntu 22.04, Kernel: 6.8.0-1021-aws (x86_64), Vulkan: 1.3.255, Compiler: GCC 11.4.0, File-System: ext4, Screen Resolution: 800x600, System Layer: amazon
+
+
+RAMspeed SMP 3.5.0
+Type: Average - Benchmark: Floating Point
+MB/s > Higher Is Better
+
+==========================================
+1->1
+ubuntu@ip-172-31-35-92:~$ iperf -c 172.31.36.228 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.36.228, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.35.92 port 43344 connected with 172.31.36.228 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0033 sec  4.52 GBytes  3.88 Gbits/sec
+==========================================
+1->2
+ubuntu@ip-172-31-46-157:~$ iperf -c 172.31.36.228 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.36.228, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.46.157 port 37874 connected with 172.31.36.228 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0167 sec  4.74 GBytes  4.07 Gbits/sec
+============================================
+2->2
+ubuntu@ip-172-31-39-1:~$ iperf -c 172.31.46.157 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.46.157, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.39.1 port 51078 connected with 172.31.46.157 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0020 sec  5.76 GBytes  4.95 Gbits/sec
+==============================================
+3->1
+ubuntu@ip-172-31-13-197:~$ iperf -c 172.31.36.228 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.36.228, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.13.197 port 39140 connected with 172.31.36.228 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0059 sec  2.43 GBytes  2.09 Gbits/sec
+===============================================
+3->2
+ubuntu@ip-172-31-13-197:~$ iperf -c 172.31.46.157 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.46.157, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.13.197 port 56508 connected with 172.31.46.157 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0165 sec  2.79 GBytes  2.40 Gbits/sec
+===============================================
+3->3
+ubuntu@ip-172-31-8-222:~$ iperf -c 172.31.13.197 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.13.197, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.8.222 port 49340 connected with 172.31.13.197 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0166 sec  5.78 GBytes  4.95 Gbits/sec
+
+================================================
+1->1
+ubuntu@ip-172-31-35-92:~$ ping -c 4 172.31.36.228
+PING 172.31.36.228 (172.31.36.228) 56(84) bytes of data.
+64 bytes from 172.31.36.228: icmp_seq=1 ttl=64 time=0.334 ms
+64 bytes from 172.31.36.228: icmp_seq=2 ttl=64 time=0.281 ms
+64 bytes from 172.31.36.228: icmp_seq=3 ttl=64 time=0.260 ms
+64 bytes from 172.31.36.228: icmp_seq=4 ttl=64 time=0.256 ms
+
+--- 172.31.36.228 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3081ms
+rtt min/avg/max/mdev = 0.256/0.282/0.334/0.031 ms
+===============================================
+2->1
+ubuntu@ip-172-31-46-157:~$ ping -c 4 172.31.36.228
+PING 172.31.36.228 (172.31.36.228) 56(84) bytes of data.
+64 bytes from 172.31.36.228: icmp_seq=1 ttl=64 time=0.245 ms
+64 bytes from 172.31.36.228: icmp_seq=2 ttl=64 time=0.243 ms
+64 bytes from 172.31.36.228: icmp_seq=3 ttl=64 time=0.235 ms
+64 bytes from 172.31.36.228: icmp_seq=4 ttl=64 time=0.282 ms
+
+--- 172.31.36.228 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3104ms
+rtt min/avg/max/mdev = 0.235/0.251/0.282/0.018 ms
+===============================================
+3->1
+ubuntu@ip-172-31-8-222:~$ ping -c 4 172.31.36.228
+PING 172.31.36.228 (172.31.36.228) 56(84) bytes of data.
+64 bytes from 172.31.36.228: icmp_seq=1 ttl=64 time=1.12 ms
+64 bytes from 172.31.36.228: icmp_seq=2 ttl=64 time=0.696 ms
+64 bytes from 172.31.36.228: icmp_seq=3 ttl=64 time=0.848 ms
+64 bytes from 172.31.36.228: icmp_seq=4 ttl=64 time=0.798 ms
+
+--- 172.31.36.228 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3080ms
+rtt min/avg/max/mdev = 0.696/0.866/1.124/0.158 ms
+================================================
+2->2
+ubuntu@ip-172-31-39-1:~$ ping -c 4 172.31.46.157
+PING 172.31.46.157 (172.31.46.157) 56(84) bytes of data.
+64 bytes from 172.31.46.157: icmp_seq=1 ttl=64 time=0.203 ms
+64 bytes from 172.31.46.157: icmp_seq=2 ttl=64 time=0.190 ms
+64 bytes from 172.31.46.157: icmp_seq=3 ttl=64 time=0.201 ms
+64 bytes from 172.31.46.157: icmp_seq=4 ttl=64 time=0.186 ms
+
+--- 172.31.46.157 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3097ms
+rtt min/avg/max/mdev = 0.186/0.195/0.203/0.007 ms
+================================================
+3->2
+ubuntu@ip-172-31-13-197:~$  ping -c 4 172.31.46.157
+PING 172.31.46.157 (172.31.46.157) 56(84) bytes of data.
+64 bytes from 172.31.46.157: icmp_seq=1 ttl=64 time=0.742 ms
+64 bytes from 172.31.46.157: icmp_seq=2 ttl=64 time=0.718 ms
+64 bytes from 172.31.46.157: icmp_seq=3 ttl=64 time=0.721 ms
+64 bytes from 172.31.46.157: icmp_seq=4 ttl=64 time=0.705 ms
+
+--- 172.31.46.157 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3061ms
+rtt min/avg/max/mdev = 0.705/0.721/0.742/0.013 ms
+=================================================
+3->3
+ubuntu@ip-172-31-13-197:~$ ping -c 4 172.31.8.222
+PING 172.31.8.222 (172.31.8.222) 56(84) bytes of data.
+64 bytes from 172.31.8.222: icmp_seq=1 ttl=64 time=0.317 ms
+64 bytes from 172.31.8.222: icmp_seq=2 ttl=64 time=0.150 ms
+64 bytes from 172.31.8.222: icmp_seq=3 ttl=64 time=0.152 ms
+64 bytes from 172.31.8.222: icmp_seq=4 ttl=64 time=0.149 ms
+
+--- 172.31.8.222 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3052ms
+rtt min/avg/max/mdev = 0.149/0.192/0.317/0.072 ms
+
+
+============================================
+A->A
+ubuntu@ip-172-31-23-33:~$ iperf -c 172.31.26.196 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.26.196, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.23.33 port 51178 connected with 172.31.26.196 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0106 sec  1.18 GBytes  1.02 Gbits/sec
+
+ubuntu@ip-172-31-23-33:~$ ping -c 4 172.31.26.196
+PING 172.31.26.196 (172.31.26.196) 56(84) bytes of data.
+64 bytes from 172.31.26.196: icmp_seq=1 ttl=64 time=0.614 ms
+64 bytes from 172.31.26.196: icmp_seq=2 ttl=64 time=0.285 ms
+64 bytes from 172.31.26.196: icmp_seq=3 ttl=64 time=0.917 ms
+64 bytes from 172.31.26.196: icmp_seq=4 ttl=64 time=0.655 ms
+
+--- 172.31.26.196 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3095ms
+rtt min/avg/max/mdev = 0.285/0.617/0.917/0.224 ms
+
+=========================================
+B->B
+ubuntu@ip-172-31-29-187:~$ iperf -c 172.31.26.24 -w 256K
+------------------------------------------------------------
+Client connecting to 172.31.26.24, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.29.187 port 49918 connected with 172.31.26.24 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0027 sec  10.8 GBytes  9.30 Gbits/sec
+
+ubuntu@ip-172-31-29-187:~$ ping -c 4 172.31.26.24
+PING 172.31.26.24 (172.31.26.24) 56(84) bytes of data.
+64 bytes from 172.31.26.24: icmp_seq=1 ttl=64 time=0.126 ms
+64 bytes from 172.31.26.24: icmp_seq=2 ttl=64 time=0.100 ms
+64 bytes from 172.31.26.24: icmp_seq=3 ttl=64 time=0.101 ms
+64 bytes from 172.31.26.24: icmp_seq=4 ttl=64 time=0.095 ms
+
+--- 172.31.26.24 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3066ms
+rtt min/avg/max/mdev = 0.095/0.105/0.126/0.012 ms
+
+
+=========================================
+A->B
+ubuntu@ip-172-31-29-187:~$ iperf -c 18.212.101.244 -w 256K
+------------------------------------------------------------
+Client connecting to 18.212.101.244, TCP port 5001
+TCP window size:  416 KByte (WARNING: requested  256 KByte)
+------------------------------------------------------------
+[  1] local 172.31.29.187 port 36382 connected with 18.212.101.244 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.1291 sec  41.6 MBytes  34.5 Mbits/sec
+
+ubuntu@ip-172-31-29-187:~$ ping -c 4 18.212.101.244
+PING 18.212.101.244 (18.212.101.244) 56(84) bytes of data.
+64 bytes from 18.212.101.244: icmp_seq=1 ttl=58 time=58.2 ms
+64 bytes from 18.212.101.244: icmp_seq=2 ttl=58 time=58.2 ms
+64 bytes from 18.212.101.244: icmp_seq=3 ttl=58 time=58.2 ms
+64 bytes from 18.212.101.244: icmp_seq=4 ttl=58 time=58.2 ms
+
+--- 18.212.101.244 ping statistics ---
+4 packets transmitted, 4 received, 0% packet loss, time 3004ms
+rtt min/avg/max/mdev = 58.208/58.220/58.240/0.012 ms
